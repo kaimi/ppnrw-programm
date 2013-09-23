@@ -1,0 +1,3 @@
+= Serverarchitektur für EU-Bürgerinitiative =
+
+Der Landesverband NRW der Piratenpartei spricht sich dafür aus eine Serverinfrastruktur für ein Onlinesammelsystem zu errichten um EU-Bürgerinitiativen gemäß Artikel 11 (4) EU-Vertrag durchzuführen. Dies dient dem Ziel den demokratischen Prozess innerhalb Europas zu stärken und die Zusammenarbeit der europäischen Piratenparteien zu fördern. Der Bundesvorstand und die anderen Landesverbände der Piratenpartei werden gebeten dieses Projekt der AG Europa wohlwollend zur Kenntnis zu nehmen und im Rahmen ihrer Möglichkeiten zu unterstützen.

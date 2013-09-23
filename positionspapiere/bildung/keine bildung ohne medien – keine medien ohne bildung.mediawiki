@@ -1,0 +1,27 @@
+= Keine Bildung ohne Medien – keine Medien ohne Bildung =
+
+Die NRW-Piraten betrachten digitale Medien und das Internet als bereicherndes Potenzial für formale und informelle Bildung. Digitale Medien und Internet ermöglichen einen Paradigmenwechsel in Didaktik und Methoden: Die Rollen “Lehrende” und “Lernende” können in lernenden Netzwerken aufgehen, die kollaborative Software zur Selbstaneignung von geteiltem Schwarmwissen nutzen. Die Piraten schließen sich der Forderung “keine Bildung ohne Medien” an und möchten neben einer technischen Erneuerung und einer medienpädagogischen Offensive die Qualifizierung der pädagogischen Fachkräfte zum Einsatz neuer Medien und des Internets in Bildungsprozessen vorantreiben. Fortbildungsangebote für Lehrpersonen müssen in allen Phasen ihrer Ausbildung gestaltet und umgesetzt werden um die “digitale Kluft” zwischen Lehrpersonen und Lernenden zu überwinden.
+
+Medienkompetenz gilt als ein Schlüssel für Bildung in der Kommunikations- und Wissensgesellschaft. Das gesellschaftliche und politische Potential des Internets muss Bestandteil der Herausbildung von Medienkompetenz sein. Medienkompetenz ist mehr als “Bedienkompetenz”. Eltern und Schüler sind in die Angebote zur Ausbildung von Medienkompetenz mit einzubeziehen.
+
+Die Piraten beschreiben Medienkompetenz mit differenzierten Zielen:
+
+* Angstfreie Nutzung der Medien und des Internets durch umfassende Kenntnis der Funktionsweisen, Marktmechanismen und Chancen der jeweiligen Medien.
+* Verständnis für die technischen Grundlagen der Medien.
+* Aneignung, Vermittlung und kreative Interpretation von Anwendungswissen.
+* Medien als soziales Element verstehen und nutzen.
+* Medien nutzen für Solidarität und Vernetzung.
+* Medien kommunikativ nutzen und selber mediale Inhalte produzieren.
+* Mit Medien und Inhalten kreativ experimentieren.
+* Medien als Quelle sinnlicher Erfahrung wahrnehmen und ästhetisch einordnen können, Ästhetik digitaler Werke weiterentwickeln.
+* Wert medialer Inhalte (be)achten, selber Werte schaffen und teilen.
+* Problemlagen von Medieninhalten erkennen.
+* Ethische Fragen zu Medieninhalten positionierend diskutieren.
+* Medien nutzen um eigene Interessen zu artikulieren. ePartizipation lernen.
+* Meinungen respektieren und für die Freiheit der Meinungsvielfalt eintreten.
+* Wissen über Eigentumsverhältnisse von Medien.
+* Kritisches Bewusstsein hinsichtlich Macht der Medien und ihrer Eigentümer-Interessen.
+
+Piraten sprechen sich für die Nutzung offener und frei verfügbarer Software nach dem [FLOSS-Modell https://wiki.piratenpartei.de/NRW:Landtagswahl_2012/Wahlprogrammantr%C3%A4ge_FLOSS] aus. Proprietäre Lösungen bei digitalen Lernmaterialien lehnen wir ab. Die Nutzung neuartiger Hardware wie etwa Tablets und Smartphones darf nicht Hersteller bedingt eingeschränkt sein. Statt Handyverboten an Schulen soll auch vorhandene mobile Technik der Schüler zum Lernen genutzt werden.
+
+Piraten nutzen selber die Chancen digitaler Medien und Internet um Bildungspolitik zu gestalten.

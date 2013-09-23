@@ -1,0 +1,17 @@
+= Vermeidung unfreier Systeme in der öffentlichen Hand =
+
+Die PIRATEN NRW fordern den Einsatz von FLOSS in der Verwaltung. Die eingesetzte Hardware darf den Einsatz von FLOSS nicht behindern. Darum fordern die Piraten den Einsatz offener Hardware. Information darüber, wie Hardware zu benutzen ist, muss frei verfügbar sein. Das bedeutet als Mindestanspruch, dass Schnittstellen und die Art wie sie zu benutzen sind, offen gelegt sein müssen.
+
+Die Wartung der Hardware in öffentlicher Hand muß auch über die geplante Einsatzzeit hinaus garantiert und grundsätzlich unabhängig von Hersteller, Anbieter und Vertrieb möglich sein. Rechtliche Hürden, z.B. in Wartungs- oder Lizenzverträgen dürfen dies nicht behindern.
+
+Systeme können durchaus aus offenen und anderen Komponenten bestehen. Sofern keine offene Hardware zur Verfügung steht, muss garantiert sein, dass auch bei Neu- und Weiterentwicklungen zum Integritätsschutz FLOSS auf der eingesetzten Hardware lauffähig ist. Offene Systeme und Sicherheit stehen nicht im Widerspruch zueinander. Auf Offenheit basierende Schutzmechanismen sind den Geschlossenen überlegen.
+
+Bestehende Verträge mit Anbietern und Herstellern müssen auf vorzeitige Aufhebung zur Vermeidung eines “Vendor-Lockins” geprüft und gegebenenfalls gekündigt oder nicht verlängert werden. Bei Ausschreibungen neuer Hardwareinvestitionen muss offener Hardware der Vorzug vor proprietärer Hardware gegeben werden, sofern sie verfügbar ist. Außerdem soll die Entwicklung offener Hardware unterstützt werden.
+
+'''Weiterführende Quellen:'''
+
+* Definition offener Hardware – http://www.opencollector.org/Whyfree/open_hardware.html
+* Free Software Foundation – Will your computer’s “Secure Boot” turn out to be “Restricted Boot”? http://www.fsf.org/news/secure-boot-vs-restricted-boot-in-windows-8
+* FSF warnt vor Secure Boot – http://www.heise.de/open/meldung/FSF-warnt-vor-Secure-Boot-in-Windows-8-1363347.html
+* Cory Doctorow 28c3 – The Coming War on General Computation – https://github.com/jwise/28c3-doctorow/blob/master/transcript.md
+* Deutsche Übersetzung – Der kommende Krieg gegen universelle Computer – http://achnichts.cwoehrl.de/?p=3782
