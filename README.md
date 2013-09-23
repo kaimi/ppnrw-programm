@@ -5,5 +5,5 @@ Vorschläge für Änderungsanträge und bereits beschlossene Änderungen bitte p
 Pull-Request.
 
 Offene Satzungsänderungsanträge und die Antragshistorie finden sich unter 
-[Issues](https://github.com/piratenpartei-nrw/satzung/issues
+[Issues](https://github.com/piratenpartei-nrw/programm/issues
 "Programm der Piratenpartei Nordrhein-Westfalen: Issues").
