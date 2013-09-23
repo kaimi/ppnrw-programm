@@ -433,6 +433,14 @@ Derzeit beschränkt sich der Verbraucherschutz darauf, im Nachhinein auf Lebensm
 
 Die PIRATEN&nbsp;NRW setzen sich für eine Gesetzesinitiative des Landes NRW auf Bundesebene ein, die das Verbandsklagerecht für anerkannte Stellen auf den Bereich des Verbraucherschutzes erweitert. Das Klagerecht soll eine Musterfeststellungsklage durch Verbraucherverbände ermöglichen, um eine Rechtsfrage verbindlich für alle betroffenen Verbraucher zu klären.
 
+=== Freie Softwareinstallation ===
+
+Die Piraten NRW streben an, für PCs, Smartphones, Tablets und andere computerähnliche Geräte die Möglichkeit der Installation von Software aus beliebigen Quellen gesetzlich vorzuschreiben.
+
+Um weniger erfahrene Nutzer vor Schadsoftware zu schützen, muss dabei die freie Softwareinstallation im Auslieferungszustand nicht aktiviert sein. Es muss dafür jedoch eine einfache, über die Oberfläche des Betriebssystems im Auslieferungszustand zugängliche Option existieren. Frei installierte Software muss dabei auf alle Schnittstellen des Systems zugreifen können, auf die vom Systemhersteller zugelassene Software zugreifen kann. Weiterhin darf die freie Softwareinstallation nicht zu einem Verlust der Gewährleistung oder anderen Nachteilen für den Verbraucher führen. Die freie Softwareinstallation darf auch bei durch Netzbetreiber angepassten Geräten nicht eingeschränkt werden.
+
+Als "computerähnliche Geräte" sollen dabei alle digitalen informationsverarbeitenden Systeme aufgefasst werden, deren Betriebssystem grundsätzlich die Möglichkeit bietet, zusätzliche Software zu installieren.
+
 == Arbeit und Soziales ==
 
 === Zurück zur Sozialen Marktwirtschaft ===
