@@ -441,6 +441,8 @@ Um weniger erfahrene Nutzer vor Schadsoftware zu schützen, muss dabei die freie
 
 Als "computerähnliche Geräte" sollen dabei alle digitalen informationsverarbeitenden Systeme aufgefasst werden, deren Betriebssystem grundsätzlich die Möglichkeit bietet, zusätzliche Software zu installieren.
 
+Auf Geräten für industrielle oder sicherheitskritische Anwendungen sowie Geräte, bei denen fehlerhafte oder bösartige Software unmittelbar physischen Schaden verursachen kann, wie z. B. Autos oder Haushaltsgeräte, soll diese Regelung nur eingeschränkt gelten. Für diese Geräte kann der volle Zugriff auf alle Schnittstellen mit hohen Hürden versehen werden. Eine illegale Ansteuerung von Funkschnittstellen, z. B. mit am Betriebsort nicht zugelassenen Frequenzen, soll dabei nicht als pysischer Schaden betrachtet werden, der eine Erschwerung der freien Softwareinstallation rechtfertigen kann. Für solche Szenarien greifen bestehende Gesetze (§55 Telekommunikationsgesetz).
+
 == Arbeit und Soziales ==
 
 === Zurück zur Sozialen Marktwirtschaft ===
